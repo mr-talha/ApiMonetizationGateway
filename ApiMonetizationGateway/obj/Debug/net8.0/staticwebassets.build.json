@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BFWQ3KSHarfRn6UULwIg9fcg++rMo/ETLXjsgl9laIE=",
+  "Source": "ApiMonetizationGateway",
+  "BasePath": "_content/ApiMonetizationGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
