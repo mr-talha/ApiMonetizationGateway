@@ -112,8 +112,8 @@ using (var scope = app.Services.CreateScope())
         await db.Database.MigrateAsync();
         logger.LogInformation("Database migrations applied successfully");
 
-        //await SeedData.InitializeAsync(db);
-        //logger.LogInformation("Database seeded successfully");
+        await SeedData.InitializeAsync(db);
+        logger.LogInformation("Database seeded successfully");
     }
     catch (Exception ex)
     {

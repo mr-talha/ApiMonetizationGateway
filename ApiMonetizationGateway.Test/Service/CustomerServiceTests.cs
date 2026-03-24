@@ -1,7 +1,7 @@
 ﻿using ApiMonetizationGateway.Tests.ExtentionServices;
 using ApiMonetizationGateway.Services.CustomerService.Impl;
 
-namespace ApiMonetizationGateway.Test.Service
+namespace ApiMonetizationGateway.Tests.Service
 {
     public class CustomerServiceTests
     {
